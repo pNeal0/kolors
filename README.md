@@ -8,7 +8,7 @@ $ pip install colorthief sty
 $ git clone https://github.com/pNeal0/kolors
 $ cd kolors
 $ chmod +x main.py
-# ln -s "$PWD/main.py" /usr/bin/kolors
+$ sudo ln -s "$PWD/main.py" /usr/bin/kolors
 ```
 
 ## Usage
