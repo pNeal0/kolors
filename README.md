@@ -3,17 +3,17 @@
 
 To install kolors run these commands:
 
-```bash
+```
 $ pip install colorthief sty
 $ git clone https://github.com/pNeal0/kolors
 $ cd kolors
 $ chmod +x main.py
-$ sudo ln -s "$PWD/main.py" /usr/bin/kolors
+# ln -s "$PWD/main.py" /usr/bin/kolors
 ```
 
 ## Usage
 
-```bash
+```
 $ kolors --help
 usage: kolors [-h] [-d] [-t] -p PRECISION -f FILE
 
